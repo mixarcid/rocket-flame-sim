@@ -1,3 +1,5 @@
+//This code isn't mine! It was downloaded from https://gist.github.com/nowl/828013. Thanks nowl!
+
 #include <stdio.h>
 
 static int SEED = 0;
